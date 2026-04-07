@@ -114,23 +114,22 @@ El backend incluye endpoint de seed:
 
 - GET `http://localhost:${BACKEND_PUBLISH_PORT}/api/seed`
 
-capturas
-
+### capturas
 - Docker compose ps
 <img width="503" height="253" alt="image" src="https://github.com/user-attachments/assets/084635eb-924b-48d4-9ab8-a01cc48ff662" />
-frontend
+- frontend
 <img width="1408" height="757" alt="image" src="https://github.com/user-attachments/assets/73721715-9bba-49b1-bb75-753fdf4c430b" />
-backend api
+- backend api
 <img width="1431" height="718" alt="image" src="https://github.com/user-attachments/assets/07f05496-9054-422d-af4a-74aac8654d35" />
-Api seed
+- Api seed
 <img width="339" height="102" alt="image" src="https://github.com/user-attachments/assets/4ced485a-4d8c-480c-8c93-083d8959222f" />
-Estructura backend
+- Estructura backend
 <img width="268" height="390" alt="image" src="https://github.com/user-attachments/assets/d3ed176e-174d-41ab-a905-8692b4a70a65" />
-Estructura Frontend
+- Estructura Frontend
 <img width="287" height="416" alt="image" src="https://github.com/user-attachments/assets/5bc5b7d8-b75a-4f88-8eb3-87a2bc0b85c3" />
-Api funcionando
+- Api funcionando
 <img width="1065" height="574" alt="image" src="https://github.com/user-attachments/assets/983d8f31-9121-40cd-99c3-0c74987d9acc" />
-docker compose up --build -d
+- docker compose up --build -d
 <img width="544" height="205" alt="image" src="https://github.com/user-attachments/assets/0162f239-c9c2-41e1-bbef-e057629b2cb3" />
 
 
