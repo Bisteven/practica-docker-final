@@ -114,16 +114,25 @@ El backend incluye endpoint de seed:
 
 - GET `http://localhost:${BACKEND_PUBLISH_PORT}/api/seed`
 
-## Fase 5 – Evidencias (capturas sugeridas)
+capturas
 
-- `docker compose ps` mostrando contenedores en ejecución
-- Navegador con frontend cargando en `http://localhost:${FRONTEND_PUBLISH_PORT}` (ej. `8080`)
-- Swagger del backend en `http://localhost:${BACKEND_PUBLISH_PORT}/api`
-- Ejecución del seed (respuesta de `GET /api/seed`)
+- Docker compose ps
+<img width="503" height="253" alt="image" src="https://github.com/user-attachments/assets/084635eb-924b-48d4-9ab8-a01cc48ff662" />
+frontend
+<img width="1408" height="757" alt="image" src="https://github.com/user-attachments/assets/73721715-9bba-49b1-bb75-753fdf4c430b" />
+backend api
+<img width="1431" height="718" alt="image" src="https://github.com/user-attachments/assets/07f05496-9054-422d-af4a-74aac8654d35" />
+Api seed
+<img width="339" height="102" alt="image" src="https://github.com/user-attachments/assets/4ced485a-4d8c-480c-8c93-083d8959222f" />
+Estructura backend
+<img width="268" height="390" alt="image" src="https://github.com/user-attachments/assets/d3ed176e-174d-41ab-a905-8692b4a70a65" />
+Estructura Frontend
+<img width="287" height="416" alt="image" src="https://github.com/user-attachments/assets/5bc5b7d8-b75a-4f88-8eb3-87a2bc0b85c3" />
+Api funcionando
+<img width="1065" height="574" alt="image" src="https://github.com/user-attachments/assets/983d8f31-9121-40cd-99c3-0c74987d9acc" />
+docker compose up --build -d
+<img width="544" height="205" alt="image" src="https://github.com/user-attachments/assets/0162f239-c9c2-41e1-bbef-e057629b2cb3" />
 
-Sugerencia: guardar las capturas en una carpeta `evidencias/` (no obligatoria) con nombres como:
 
-- `01-compose-ps.png`
-- `02-frontend.png`
-- `03-swagger.png`
-- `04-seed.png`
+
+
